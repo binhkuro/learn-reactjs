@@ -11,7 +11,7 @@ function App() {
     age: '21',
     isFemale: true,
   };
-  const colorList = ['red', 'blue', 'pink']
+  const colorList = ['white', 'black', 'pink']
 
   return (
     <div className="App">
